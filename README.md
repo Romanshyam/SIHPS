@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:09-05-2024
+## Register Number:212221040068
+## Name:K.Charitha 
 ## Problem Title
 **"GreenTech Exchange: Locate, Educate, Reward"**
 ## Problem Description
@@ -15,6 +15,10 @@ Ministry of Environment
 
 ## Proposed Solution / Architecture Diagram
 ![image](https://github.com/1808charitha/SIHPS/assets/132996838/30e68b3f-bdc8-4804-a3ab-0b127b12cea2)
+![image](https://github.com/1808charitha/SIHPS/assets/132996838/974a9ab4-e90c-4f9e-bc7c-59f9ec99bd70)
+![image](https://github.com/1808charitha/SIHPS/assets/132996838/e6d7c0d1-878d-4d8b-8486-71530a8ff787)
+
+
 ![image](https://github.com/1808charitha/SIHPS/assets/132996838/9f53b54e-1cdf-4c3d-a062-36c1f4063020)
 
 
