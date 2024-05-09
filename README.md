@@ -15,7 +15,9 @@ Ministry of Environment
 
 ## Proposed Solution / Architecture Diagram
 ![image](https://github.com/1808charitha/SIHPS/assets/132996838/30e68b3f-bdc8-4804-a3ab-0b127b12cea2)
+
 ![image](https://github.com/1808charitha/SIHPS/assets/132996838/974a9ab4-e90c-4f9e-bc7c-59f9ec99bd70)
+
 ![image](https://github.com/1808charitha/SIHPS/assets/132996838/e6d7c0d1-878d-4d8b-8486-71530a8ff787)
 
 
